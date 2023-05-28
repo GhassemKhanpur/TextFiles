@@ -1,0 +1,11 @@
+--Spela Projekt-- 
+WWW.ABCDEFGH.COM 
+Telefon:071232432532 
+Adress:Stockholm 235315
+ Datorspel (dator-spel), i viss utsträckning även dataspel (data-spel),
+ tidigare kallat videospel (video-spel, av engelska: video game),
+ är spel som visualiseras via en bildskärm och spelas med hjälp av en dator,
+ såsom persondator, spelkonsol, mobiltelefon eller spelautomat/arkadkabinett, etc.
+ Datorspel indelas traditionellt i olika klasser beroende på 
+vilken datorplattform spelen programmerats för,
+ exempelvis: PC-spel/datorspel, TV-spel/konsolspel, mobilspel eller arkadspel.

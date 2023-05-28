@@ -1,0 +1,14 @@
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\obj\Debug\GameMenu.csproj.AssemblyReference.cache
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\obj\Debug\GameMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\obj\Debug\GameMenu.csproj.CoreCompileInputs.cache
+C:\Users\Maz\source\repos\HundarDagids\HundarDagid\bin\Debug\HundarDagid.exe
+C:\Users\Maz\source\repos\HundarDagids\HundarDagid\bin\Debug\HundarDagid.pdb
+C:\Users\Maz\source\repos\HundarDagids\HundarDagid\obj\Debug\GameMenu.csproj.AssemblyReference.cache
+C:\Users\Maz\source\repos\HundarDagids\HundarDagid\obj\Debug\GameMenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maz\source\repos\HundarDagids\HundarDagid\obj\Debug\GameMenu.csproj.CoreCompileInputs.cache
+C:\Users\Maz\source\repos\HundarDagids\HundarDagid\obj\Debug\HundarDagid.exe
+C:\Users\Maz\source\repos\HundarDagids\HundarDagid\obj\Debug\HundarDagid.pdb
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\bin\Debug\GamePrijekt.exe
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\bin\Debug\GamePrijekt.pdb
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\obj\Debug\GamePrijekt.exe
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\obj\Debug\GamePrijekt.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\bin\Debug\HundarDagid.exe
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\bin\Debug\HundarDagid.pdb
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\obj\Debug\HundDagis.csproj.AssemblyReference.cache
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\obj\Debug\HundDagis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\obj\Debug\HundDagis.csproj.CoreCompileInputs.cache
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\obj\Debug\HundarDagid.exe
+C:\Users\Maz\source\repos\HundarDagid\HundarDagid\obj\Debug\HundarDagid.pdb
